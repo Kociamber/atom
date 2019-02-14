@@ -1,5 +1,6 @@
 #!/bin/sh
 rm -rf ~/.atom
+rm -r /Applications/Atom.app
 rm /usr/local/bin/atom
 rm /usr/local/bin/apm
 rm ~/Library/Preferences/com.github.atom.plist
